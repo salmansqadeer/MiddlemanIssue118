@@ -1,0 +1,50 @@
+
+$blog_title: #333;
+
+body {
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+.masthead {
+	padding: 100px 0 100px 0;
+
+	h1 {
+		font-size: 120px;
+		line-height: 1;
+		letter-spacing: -2px;	
+	}
+}
+
+.blog_post {
+
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 25px;
+
+	h2 a {
+
+		color: black;
+		font-size: 30px;
+		font-weight: 700;
+		letter-spacing: -1px;	
+		line-height: 0px;
+	}
+
+	.posted_on {
+		color: #999;
+		font-size: 14px;
+		padding-bottom: 10px;
+	}
+
+	p {
+		font-family: 'Open Sans', sans-serif;
+	
+		color: #3e3e3e;
+		margin: 0 0 30px;
+	}
+
+}
+
